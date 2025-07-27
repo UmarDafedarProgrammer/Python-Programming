@@ -1,10 +1,10 @@
 import os
 
-# Single line comment
+# Single line comment [Ignored]
 
 print("Commenting") #Another comment
 
-# Multiple line comments
+# Multiple line comments - Doc String[Documentation string] Processed by Interpreter
 """
 Comment 1
 Comment 2
@@ -21,3 +21,7 @@ print("Checking \
 Another way \
 of multiple line \
 text to be printed on one line")
+
+'This is also a comment ?: yes, as this string literal is not assigned to any variable' 
+
+"Is this also a comment ?: Yes, as this is also not assigned to any variable"
