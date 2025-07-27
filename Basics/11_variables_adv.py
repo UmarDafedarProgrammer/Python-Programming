@@ -40,6 +40,10 @@ print(a2,b2,c2)
 
 # delete the variable from the namespace
 # this is manual freeing up the memory
+# We can remove a variable from the namespace using the del keyword. This effectively deletes the variable and frees up the memory it was using.
 del a2
 # print(a2) NameError: name 'a2' is not defined. Did you mean: 'a'
 # Since, a2 is deleted, it wont be accessed and we will get NameError
+
+# Count Number of Characters in a string
+print(f"length of the string: {len(c1)}")
