@@ -1,0 +1,20 @@
+insert_job: box1
+job_type: b
+
+insert_job: box1.jobA
+job_type: c
+box_name: box1
+condition: success(box1.jobB)
+
+insert_job: box1.jobB
+job_type: c
+box_name: box1
+
+insert_job: box1.jobC
+job_type: c
+box_name: box1
+condition: success(box1.jobD)
+
+insert_job: box1.jobD
+job_type: c
+box_name: box1
