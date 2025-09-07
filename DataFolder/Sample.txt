@@ -1,0 +1,30 @@
+------------------------------------------------------------
+                  MONTHLY SALES REPORT - AUGUST 2025
+------------------------------------------------------------
+
+Company: Acme Retail Inc.
+Report Generated: September 1, 2025
+
+Prepared By: Data Analytics Department
+
+------------------------------------------------------------
+| Item ID | Item Name        | Quantity Sold | Unit Price | Total      |
+------------------------------------------------------------
+| 101     | Wireless Mouse   | 120           | $25.00     | $3,000.00  |
+| 102     | USB Keyboard     | 85            | $20.00     | $1,700.00  |
+| 103     | Laptop Stand     | 60            | $35.00     | $2,100.00  |
+| 104     | HDMI Cable       | 200           | $10.00     | $2,000.00  |
+| 105     | Portable Charger | 45            | $40.00     | $1,800.00  |
+------------------------------------------------------------
+
+Total Items Sold: 510
+Total Revenue: $10,600.00
+
+Notes:
+- HDMI Cables had a seasonal promotion.
+- Wireless Mouse sales increased by 20% over July.
+- All values in USD.
+
+Contact: analytics@acmeretail.com | +1-555-987-6543
+
+------------------------------------------------------------
