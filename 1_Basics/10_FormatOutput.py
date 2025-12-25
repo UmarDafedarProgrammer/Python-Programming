@@ -9,14 +9,16 @@
 # %x –hexadecimal
 # %o – octal
 
-i = 10
-f = 3.456
-s = "string"
-b = True
+i1 = 10
+f2 = 3.456
+f3 = 345.56777
+s3 = "string"
+b4 = True
 
-print("value of i %d" %i)
-print("value of f %f" %f)
-print("value of .2f %.2f" %f)
-print("value of s %s" %s)
-print("value of hexadecimal i %x" %i)
-print("value of octal i %o" %i)
+print("value of i %d" %i1)
+print("value of f %f" %f2)
+print("value of .2f %.2f" %f2)
+print("value of .3f %.3f %f %.10f" %(f3, f3, f3))
+print("value of s %s" %s3)
+print("value of hexadecimal i %x" %i1)
+print("value of octal i %o" %i1)

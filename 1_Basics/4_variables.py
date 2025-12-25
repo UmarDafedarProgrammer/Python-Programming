@@ -21,3 +21,28 @@ print(var3)
 
 # for = 99
 # invalid syntax error: as for is keyword and can not be used as a variable name
+
+_startswithUnderscore = 34
+
+print(_startswithUnderscore)
+
+# Dynamic typed example
+# Same variable can hold different type of data during execution
+var = 10
+print("Here are some examples of Dynamic typing of variable var")
+print(var, type(var))
+
+var = 33.33
+print(var, type(var))
+
+var = "string"
+print(var, type(var)) # Type inferencing type() - > will retrieve the type of object/variable
+
+var = True
+print(var, type(var))
+
+# Multiple assignment example
+v1, v2, v3 = 10, 33.33, "Test"
+v4 = v5 = v6 = 55
+
+print(v1, v2, v3, v4, v5, v6)

@@ -51,3 +51,8 @@ ValueError: not enough values to unpack (expected 2, got 1)
 
 int_var, float_var = input("Please, enter the quantity and price: ").split('/')  # Returns a list
 print(int_var, float_var)
+
+
+var = list(input("Please, enter the quantity and price: "))
+print(type(var))
+print(var)

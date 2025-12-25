@@ -1,6 +1,6 @@
 import os
 
-#Python encounters the first statement, it creates an object for the value 5 and makes x reference it. 
+# Python encounters the first statement, it creates an object for the value 5 and makes x reference it. 
 # The second statement creates y and references the same object as x, not x itself. 
 # This is called a Shared Reference, where multiple variables reference the same object.
 
