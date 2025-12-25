@@ -4,7 +4,7 @@ import os
 
 print("Commenting") #Another comment
 
-# Multiple line comments - Doc String[Documentation string] Processed by Interpreter
+# Multiple line comments
 """
 Comment 1
 Comment 2
@@ -25,3 +25,23 @@ text to be printed on one line")
 'This is also a comment ?: yes, as this string literal is not assigned to any variable' 
 
 "Is this also a comment ?: Yes, as this is also not assigned to any variable"
+
+'''
+By default, anything included in triple quotes will follow line contination
+For an example
+'''
+
+"""
+By default, anything included in triple quotes will follow line contination
+For an example
+"""
+
+somevariable='''
+Checking for the line continuation
+first line
+second line
+'''
+
+print(somevariable)
+
+print(__doc__)
