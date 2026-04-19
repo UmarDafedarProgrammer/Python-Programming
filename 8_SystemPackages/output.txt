@@ -1,0 +1,14 @@
+3_sys.py
+hello
+1
+2
+3
+3_sys.py
+hello
+1
+2
+3
+['3_sys.py', 'hello', '1', '2', '3']
+['C:\\Users\\umard\\OneDrive\\Desktop\\GenerativeAIStudy\\Repo\\genai_venv\\Python-Programming\\8_SystemPackages', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\umard\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'c:\\users\\umard\\onedrive\\desktop\\generativeaistudy\\repo\\genai_venv\\python-programming', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+Validatintg the console outputValidatintg the console output2
+Validatintg the console output3

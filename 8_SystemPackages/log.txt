@@ -1,0 +1,2 @@
+Is it writing to the log.txt file?
+Is it also pointing to the same file ?
